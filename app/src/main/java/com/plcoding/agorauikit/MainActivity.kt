@@ -18,7 +18,7 @@ import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.plcoding.agorauikit.ui.theme.AgoraUIKitTheme
 
-const val APP_ID = "1394924a190b418d90c9f18372de992d"
+const val APP_ID = "32808925a9be43629fdb59cfc2136389"
 
 @ExperimentalUnsignedTypes
 class MainActivity : ComponentActivity() {
